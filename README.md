@@ -1,4 +1,7 @@
-PLAZA VEA : Agregar productos al carrito
+OpenCart : Compra en OpenCart
 =========================
-Automatización de casos de prueba de regresión "Agregar Productos a Carrito Plaza Vea"
+Automatización de casos de prueba "Compra realizada correctamente"
+
+Realizado por: Carlos Alcalá
+Para: TSOFT - BOOTCAMP 2021
 
